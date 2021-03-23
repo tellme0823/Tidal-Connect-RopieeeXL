@@ -53,3 +53,4 @@ To replace --playback-device, sample: --playback-device "snd_rpi_rpi_dac: RPi-DA
 > 
 ####
 ####
+#### It sounds great. Tested.
