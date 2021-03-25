@@ -5,7 +5,7 @@
 # Tidal Connect RopieeeXL setup instructions
 
 ###### Step by Step
-#1./ **Login SSH to Ropieee**
+#1./ **Login SSH to RoPieee**
 > 
 > user: root
 >
