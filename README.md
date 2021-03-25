@@ -5,13 +5,13 @@
 # Tidal Connect RopieeeXL setup instructions
 
 ###### Step by Step
-#1./ **Enable SSH into Ropieee**
+#1./ **Login SSH to Ropieee**
 > 
 > user: root
 >
 > pass: ropieee
 >
-> 
+
 
 #2./ **Download Tidal**
 > wget https://raw.githubusercontent.com/lovehifi/Tidal-Connect-RopieeeXL/main/opttidal.tar.gz
